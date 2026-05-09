@@ -1,0 +1,7 @@
+{
+  "appId": "com.mandrake.editor",
+  "appName": "Mandrake Editor",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
+
